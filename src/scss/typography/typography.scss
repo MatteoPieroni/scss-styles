@@ -1,0 +1,14 @@
+body {
+    color: red;
+}
+body {
+    a {
+        color: $color;
+    }
+}
+.flex {
+    display: flex;
+}
+.transform {
+    transform: translate(-50%, -50%);
+}
